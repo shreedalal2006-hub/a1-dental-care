@@ -1,0 +1,6 @@
+{
+  "name": "A1 Dental Care – Dr. Akshata",
+  "description": "Premium dental clinic in Piranwadi, Belagavi led by Dr. Akshata, Dental Surgeon. Book appointments online, check clinic timings, and find location details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
